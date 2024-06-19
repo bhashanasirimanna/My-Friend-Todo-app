@@ -2,6 +2,7 @@
 Introducing My Friend, your trusted companion for task management. With My Friend, effortlessly organize your tasks with a user-friendly interface and seamless functionality. Create, update, delete, and mark tasks as complete with ease, allowing for effortless task management. Whether it's jotting down reminders, planning your day, or managing projects, My Friend offers the tools you need to stay organized and productive. With My Friend, your to-do list becomes a breeze to navigate, ensuring that you can focus on what matters most. Download My Friend now and let task management become your new best friend.
 
 ![Screenshot_2024-06-19_181415-removebg-preview](https://github.com/bhashanasirimanna/My-Friend-Todo-app/assets/146844863/4fc1b66b-91c5-4ce8-8447-9110209b4c78)
+![Screenshot_2024-06-19_182054-removebg-preview](https://github.com/bhashanasirimanna/My-Friend-Todo-app/assets/146844863/12e6c93d-2f70-4ba2-a4d2-20edb2c3adfa)
 
 ## Features
 - **Create Tasks:** Quickly add new tasks with just a few clicks.
