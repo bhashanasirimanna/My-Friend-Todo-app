@@ -22,9 +22,9 @@ To set up My Friend on your local machine, follow these steps:
 
 ## Screen shots
 
-- **Launch Screen**
+### Launch Screen
 ![Screenshot_20240619_110850_com example todo](https://github.com/bhashanasirimanna/My-Friend-app/assets/146844863/d941dcf3-b50d-47fa-88f7-5bd294a8ac48)
-- **Dashboard**
+### Dashboard
 ![Screenshot_20240619_111228_com example todo](https://github.com/bhashanasirimanna/My-Friend-app/assets/146844863/62c5422f-bf55-4cc9-b748-e918034a9556)
-- **Task Management Dialog Box**
+### Task Management Dialog Box
 ![Screenshot_20240619_110939_com example todo](https://github.com/bhashanasirimanna/My-Friend-app/assets/146844863/c2911268-4844-40f1-b7a1-f7477b0c217d)
